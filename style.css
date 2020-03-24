@@ -67,7 +67,7 @@ img{
 }
 
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 425px) {
     .row {
         width: 100%;
     }
@@ -78,4 +78,10 @@ img{
       float: none;
     }
 
+}
+
+@media screen and (max-width: 768px) {
+    .row {
+        width: 100%;
+    }
 }
